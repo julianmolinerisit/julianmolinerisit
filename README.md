@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 
-# 💫 About Me
+# 💫 About Me:
 🔭 I’m currently studying Software developement.<br>🌱 I’m currently learning React<br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> julianmolinerisit@gmail.com<br>👨‍💻 All of my projects are available here!
 
 
